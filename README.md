@@ -1,4 +1,4 @@
-# ReactNativeSocialShareButtons
+# ReactNativeSocialShare
 You can integrate social media share function with this component without using sdk
 
 ## Available props
